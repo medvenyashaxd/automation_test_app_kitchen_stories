@@ -1,4 +1,4 @@
-# automation test app kitchen stories
+# automation simple test app kitchen stories
 
 libraries: Appium, JUnit 5
 
