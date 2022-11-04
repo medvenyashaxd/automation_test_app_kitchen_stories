@@ -1,6 +1,6 @@
 # automation simple test app kitchen stories
 
-libraries: Appium, JUnit 5
+Framework: Appium, libraries: JUnit 5
 
 Simple java test with landscape screen orientation and swipe across the screen
 
